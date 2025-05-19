@@ -2,19 +2,8 @@
 .sign-up p{
     margin-bottom: 20px; ;
 }
-.looking{
-    color:#999898; ;
-    margin-bottom:  30px;
-}
-.input{
-display: flex;
-justify-content: space-between;
-width: 90%;
-padding: 4px;
-gap: 40px;
-text-transform: capitalize;
 
-}
+
 
  
 .custom-input{
@@ -28,7 +17,7 @@ text-transform: capitalize;
 .custom-input label{
     margin-left: 20px;
     font-size: 1.15rem;
-    width: 100%;
-    padding: 23px;
-    text-align: start;
+    width: 80%;
+   
+    
 }
