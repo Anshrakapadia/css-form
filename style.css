@@ -1,0 +1,34 @@
+@import url(./common.css);
+.sign-up p{
+    margin-bottom: 20px; ;
+}
+.looking{
+    color:#999898; ;
+    margin-bottom:  30px;
+}
+.input{
+display: flex;
+justify-content: space-between;
+width: 90%;
+padding: 4px;
+gap: 40px;
+text-transform: capitalize;
+
+}
+
+ 
+.custom-input{
+    border: 1px solid rgb(86, 84, 84);
+    width: 60%;
+    text-align: center;
+    padding: 8px 5px;
+    height: 2.4em;
+    border-radius:5px;
+}
+.custom-input label{
+    margin-left: 20px;
+    font-size: 1.15rem;
+    width: 100%;
+    padding: 23px;
+    text-align: start;
+}
